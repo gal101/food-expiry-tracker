@@ -1,0 +1,24 @@
+# Firebase configuration — deliberately not committed
+app/google-services.json
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.kotlin/
+
+# Build output
+build/
+app/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local environment
+local.properties
+*.jks
+*.keystore
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
